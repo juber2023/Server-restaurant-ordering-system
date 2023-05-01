@@ -1,108 +1,108 @@
 [
     {
-      "category_id": "ab1",
+      "category_id": 1,
       "recipe_name": "Classic Spaghetti Carbonara",
       "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper", "salt"],
       "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, fry pancetta until crispy. 3. Beat eggs and parmesan cheese together in a bowl. 4. Drain spaghetti and add to pancetta pan. 5. Turn off heat and pour egg mixture over spaghetti, tossing quickly to prevent eggs from scrambling. 6. Add black pepper and salt to taste."
     },
     {
-      "category_id": "ab2",
+      "category_id": 2,
       "recipe_name": "Chicken Teriyaki",
       "ingredients": ["chicken thighs", "soy sauce", "mirin", "sugar", "garlic", "ginger", "cornstarch"],
       "cooking_method": "1. Combine soy sauce, mirin, sugar, garlic, and ginger in a bowl. 2. Add chicken thighs to the marinade and let sit for at least 30 minutes. 3. Remove chicken from marinade and pat dry with a paper towel. 4. Heat a pan over medium-high heat and add chicken, cooking until browned on both sides. 5. Add marinade to the pan and bring to a boil. 6. In a separate bowl, mix cornstarch with a small amount of water to create a slurry. 7. Add slurry to the pan and stir until the sauce thickens. 8. Serve chicken with teriyaki sauce on top."
     },
     {
-      "category_id": "ab3",
+      "category_id": 3,
       "recipe_name": "Caprese Salad",
       "ingredients": ["tomatoes", "fresh mozzarella", "basil leaves", "balsamic vinegar", "olive oil", "salt", "pepper"],
       "cooking_method": "1. Slice tomatoes and fresh mozzarella into rounds. 2. Arrange tomato and mozzarella slices on a plate, alternating between them. 3. Place basil leaves on top of the tomato and mozzarella slices. 4. Drizzle balsamic vinegar and olive oil over the salad. 5. Add salt and pepper to taste."
     },
     {
-      "category_id": "ab4",
+      "category_id": 4,
       "recipe_name": "Beef Stir Fry",
       "ingredients": ["beef sirloin", "vegetables (such as bell peppers, onions, broccoli, carrots)", "soy sauce", "cornstarch", "garlic", "ginger", "vegetable oil", "rice"],
       "cooking_method": "1. Cut beef sirloin into thin strips. 2. Mix soy sauce, cornstarch, garlic, and ginger in a bowl. 3. Add beef to the marinade and let sit for at least 30 minutes. 4. Heat a pan or wok over high heat and add vegetable oil. 5. Add vegetables to the pan and stir fry until tender. 6. Remove vegetables from the pan and set aside. 7. Add beef and marinade to the pan and stir fry until beef is cooked through. 8. Add vegetables back to the pan and stir until everything is well combined. 9. Serve beef stir fry over rice."
     },
     {
-        "category_id": "ab5",
+        "category_id": 5,
         "recipe_name": "Vegetable Curry",
         "ingredients": ["onion", "garlic", "ginger", "vegetables (such as cauliflower, bell pepper, carrot, potato)", "coconut milk", "curry powder", "cumin", "coriander", "salt", "pepper"],
         "cooking_method": "1. Heat oil in a pot over medium heat. 2. Add onion, garlic, and ginger and cook until softened. 3. Add curry powder, cumin, and coriander and cook for another minute. 4. Add vegetables to the pot and stir to coat in the spice mixture. 5. Add enough water to cover the vegetables and bring to a boil. 6. Reduce heat and simmer until vegetables are cooked through. 7. Add coconut milk and stir to combine. 8. Season with salt and pepper to taste."
       },
       {
-        "category_id": "ab6",
+        "category_id": 6,
         "recipe_name": "Beef Chili",
         "ingredients": ["ground beef", "onion", "bell pepper", "garlic", "chili powder", "cumin", "tomato sauce", "kidney beans", "salt", "pepper"],
         "cooking_method": "1. Heat oil in a pot over medium-high heat. 2. Add ground beef and cook until browned. 3. Add onion, bell pepper, and garlic and cook until softened. 4. Add chili powder and cumin and cook for another minute. 5. Add tomato sauce and enough water to reach desired consistency. 6. Add kidney beans and simmer until everything is heated through. 7. Season with salt and pepper to taste."
       },
       {
-        "category_id": "ab1",
+        "category_id": 1,
         "recipe_name": "Shrimp Scampi",
         "ingredients": ["spaghetti", "shrimp", "garlic", "lemon juice", "butter", "olive oil", "white wine", "parsley", "salt", "pepper"],
         "cooking_method": "1. Cook spaghetti according to package instructions. 2. Heat olive oil and butter in a pan over medium heat. 3. Add garlic and cook until fragrant. 4. Add shrimp to the pan and cook until pink. 5. Add white wine and lemon juice and bring to a boil. 6. Simmer until the sauce has reduced by about half. 7. Season with salt and pepper to taste. 8. Toss spaghetti with the shrimp scampi sauce and top with chopped parsley."
       },
       {
-        "category_id": "ab2",
+        "category_id": 2,
         "recipe_name": "Beef Stroganoff",
         "ingredients": ["beef sirloin", "onion", "mushrooms", "sour cream", "beef broth", "flour", "butter", "noodles", "salt", "pepper"],
         "cooking_method": "1. Cook noodles according to package instructions. 2. Slice beef into thin strips. 3. Heat butter in a pan over medium-high heat. 4. Add beef to the pan and cook until browned. 5. Remove beef from the pan and set aside. 6. Add onion and mushrooms to the pan and cook until softened. 7. Add flour to the pan and stir to combine."
       },
       {
-        "category_id": "ab3",
+        "category_id": 3,
         "recipe_name": "Quinoa Salad",
         "ingredients": ["quinoa", "cherry tomatoes", "cucumber", "red onion", "feta cheese", "olive oil", "lemon juice", "honey", "salt", "pepper"],
         "cooking_method": "1. Cook quinoa according to package instructions. 2. Dice cherry tomatoes and cucumber and thinly slice red onion. 3. In a bowl, whisk together olive oil, lemon juice, and honey to make the dressing. 4. Add cooked quinoa and vegetables to the bowl and toss to combine. 5. Crumble feta cheese over the top of the salad. 6. Season with salt and pepper to taste."
       },
       {
-        "category_id": "ab4",
+        "category_id": 4,
         "recipe_name": "Baked Salmon",
         "ingredients": ["salmon fillets", "lemon", "butter", "garlic", "dill", "salt", "pepper"],
         "cooking_method": "1. Preheat oven to 375°F (190°C). 2. Season salmon fillets with salt and pepper. 3. Melt butter in a pan over medium heat. 4. Add garlic and dill and cook until fragrant. 5. Squeeze lemon over the salmon fillets. 6. Pour the butter mixture over the salmon fillets. 7. Bake for 12-15 minutes or until salmon is cooked through."
       },
       {
-        "category_id": "ab5",
+        "category_id": 5,
         "recipe_name": "Egg Fried Rice",
         "ingredients": ["rice", "eggs", "vegetables (such as carrot, onion, peas)", "soy sauce", "sesame oil", "garlic powder", "salt", "pepper"],
         "cooking_method": "1. Cook rice according to package instructions. 2. Beat eggs in a bowl and set aside. 3. Heat oil in a pan over medium-high heat. 4. Add vegetables to the pan and cook until softened. 5. Add rice to the pan and stir to combine with the vegetables. 6. Push the rice mixture to the side of the pan and pour the beaten eggs into the empty side. 7. Scramble the eggs and then stir them into the rice mixture. 8. Add soy sauce, sesame oil, garlic powder, salt, and pepper to the pan and stir to combine."
       },
       {
-        "category_id": "ab6",
+        "category_id": 6,
         "recipe_name": "Spaghetti Bolognese",
         "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "canned diced tomatoes", "tomato paste", "dried oregano", "dried basil", "salt", "pepper"],
         "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large pan over medium-high heat. 3. Add chopped onion and minced garlic to the pan and cook until onion is translucent. 4. Add canned diced tomatoes, tomato paste, dried oregano, dried basil, salt, and pepper to the pan and stir to combine."
     },
     {
-        "category_id": "ab1",
+        "category_id": 1,
         "recipe_name": "Shrimp Scampi",
         "ingredients": ["spaghetti", "shrimp", "garlic", "lemon juice", "butter", "olive oil", "white wine", "parsley", "salt", "pepper"],
         "cooking_method": "1. Cook spaghetti according to package instructions. 2. Heat olive oil and butter in a pan over medium heat. 3. Add garlic and cook until fragrant. 4. Add shrimp to the pan and cook until pink. 5. Add white wine and lemon juice and bring to a boil. 6. Simmer until the sauce has reduced by about half. 7. Season with salt and pepper to taste. 8. Toss spaghetti with the shrimp scampi sauce and top with chopped parsley."
       },
       {
-        "category_id": "ab2",
+        "category_id": 2,
         "recipe_name": "Beef Stroganoff",
         "ingredients": ["beef sirloin", "onion", "mushrooms", "sour cream", "beef broth", "flour", "butter", "noodles", "salt", "pepper"],
         "cooking_method": "1. Cook noodles according to package instructions. 2. Slice beef into thin strips. 3. Heat butter in a pan over medium-high heat. 4. Add beef to the pan and cook until browned. 5. Remove beef from the pan and set aside. 6. Add onion and mushrooms to the pan and cook until softened. 7. Add flour to the pan and stir to combine."
       },
       {
-        "category_id": "ab3",
+        "category_id": 3,
         "recipe_name": "Quinoa Salad",
         "ingredients": ["quinoa", "cherry tomatoes", "cucumber", "red onion", "feta cheese", "olive oil", "lemon juice", "honey", "salt", "pepper"],
         "cooking_method": "1. Cook quinoa according to package instructions. 2. Dice cherry tomatoes and cucumber and thinly slice red onion. 3. In a bowl, whisk together olive oil, lemon juice, and honey to make the dressing. 4. Add cooked quinoa and vegetables to the bowl and toss to combine. 5. Crumble feta cheese over the top of the salad. 6. Season with salt and pepper to taste."
       },
       {
-        "category_id": "ab4",
+        "category_id": 4,
         "recipe_name": "Baked Salmon",
         "ingredients": ["salmon fillets", "lemon", "butter", "garlic", "dill", "salt", "pepper"],
         "cooking_method": "1. Preheat oven to 375°F (190°C). 2. Season salmon fillets with salt and pepper. 3. Melt butter in a pan over medium heat. 4. Add garlic and dill and cook until fragrant. 5. Squeeze lemon over the salmon fillets. 6. Pour the butter mixture over the salmon fillets. 7. Bake for 12-15 minutes or until salmon is cooked through."
       },
       {
-        "category_id": "ab5",
+        "category_id": 5,
         "recipe_name": "Egg Fried Rice",
         "ingredients": ["rice", "eggs", "vegetables (such as carrot, onion, peas)", "soy sauce", "sesame oil", "garlic powder", "salt", "pepper"],
         "cooking_method": "1. Cook rice according to package instructions. 2. Beat eggs in a bowl and set aside. 3. Heat oil in a pan over medium-high heat. 4. Add vegetables to the pan and cook until softened. 5. Add rice to the pan and stir to combine with the vegetables. 6. Push the rice mixture to the side of the pan and pour the beaten eggs into the empty side. 7. Scramble the eggs and then stir them into the rice mixture. 8. Add soy sauce, sesame oil, garlic powder, salt, and pepper to the pan and stir to combine."
       },
       {
-        "category_id": "ab6",
+        "category_id": 6,
         "recipe_name": "Spaghetti Bolognese",
         "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "canned diced tomatoes", "tomato paste", "dried oregano", "dried basil", "salt", "pepper"],
         "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large pan over medium-high heat. 3. Add chopped onion and minced garlic to the pan and cook until onion is translucent. 4. Add canned diced tomatoes, tomato paste, dried oregano, dried basil, salt, and pepper to the pan and stir to combine."
