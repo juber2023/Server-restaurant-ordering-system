@@ -5,7 +5,8 @@
     "photo": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1380&t=st=1682954404~exp=1682955004~hmac=2fb30b631f6b6f301ffc483d002c33c4bdaea0e5b5906e1cd1e0ce8d81cfd8ef",
     "name": "Md. Eyakub Ali",
     "bio": "Md. Eyakub Ali is a Michelin-starred chef with over 20 years of experience in the culinary industry. He has worked in some of the world's top restaurants and is known for his innovative and creative approach to cooking.",
-    "experience": 20,
+    "experience": 10,
+    "like":180,
     "num_recipes": 150
   },
   {
@@ -13,8 +14,9 @@
     "category_id": "ab2",
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1380&t=st=1682954468~exp=1682955068~hmac=559245114195a2ebec9362b15deae7f93756a2647894a533976cee796b962f87",
     "name": "Md. Jahangir Alam",
-    "bio": "Md. Jahangir Alam is a renowned chef and cookbook author with a passion for healthy and sustainable cooking. She has been featured in numerous publications and television shows and is a regular speaker at food and wellness events.",
+    "bio": "Md. Jahangir Alam is a renowned chef and cookbook author with a passion for healthy and sustainable cooking. He has been featured in numerous publications and television shows and is a regular speaker at food and wellness events.",
     "experience": 15,
+    "like":150,
     "num_recipes": 75
   },
   {
@@ -23,17 +25,19 @@
     "photo": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=1380&t=st=1682954508~exp=1682955108~hmac=64b80585bcc221c2cc7ab797806cf822073af378d3ecc4325dc417f18c421b89",
     "name": "Abdul Bari",
     "bio": "Abdul Bari is a chef and restaurateur who has built a reputation for creating unique and unforgettable dining experiences. He has won numerous awards for his culinary creations and is constantly pushing the boundaries of what is possible in the kitchen.",
-    "experience": 25,
+    "experience": 15,
+    "like":150,
     "num_recipes": 200
   },
   {
     "id": 4,
     "category_id": "ab4",
-    "photo": "https://example.com/chef4.jpg",
+    "photo": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=1380",
     "name": "Rakibul Islam",
-    "bio": "Rakibul Islam is a rising star in the culinary world, known for her fresh and modern take on classic dishes. She has worked in some of the top restaurants in the country and is quickly building a following of her own.",
+    "bio": "Rakibul Islam is a rising star in the culinary world, known for his fresh and modern take on classic dishes. He has worked in some of the top restaurants in the country and is quickly building a following of his own.",
     "experience": 8,
-    "num_recipes": 50
+
+"like":200  ,  "num_recipes": 50
   },
   {
     "id": 5,
@@ -41,7 +45,8 @@
     "photo": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=1380&t=st=1682954552~exp=1682955152~hmac=e5227a6d5160df7821f2f5d9dc6c75e5c1d2600e7385a633ab319975634271e2",
     "name": "Nurul Islam",
     "bio": "Nurul Islam is a chef and food blogger with a passion for sharing his love of cooking with others. He has developed a loyal following online and is known for his easy-to-follow recipes and tips for home cooks.",
-    "experience": 10,
+    "experience": 3,
+    "like":300,
     "num_recipes": 100
   },
   {
@@ -49,8 +54,9 @@
     "category_id": "ab6",
     "photo": "https://img.freepik.com/free-photo/chef-presenting-something-white-background_1368-2825.jpg?w=900&t=st=1682954582~exp=1682955182~hmac=7755a8994957fb5be3b641e8ad1677badebb3b383b23c1e995ea6c4ac237eac9",
     "name": "Reshad",
-    "bio": "Reshad is a pastry chef and dessert expert with a talent for creating stunning and delicious treats. She has worked in some of the top pastry kitchens in the world and is known for her innovative flavor combinations and beautiful presentations.",
+    "bio": "Reshad is a pastry chef and dessert expert with a talent for creating stunning and delicious treats. He has worked in some of the top pastry kitchens in the world and is known for his innovative flavor combinations and beautiful presentations.",
     "experience": 12,
-    "num_recipes": 75
+    "like":70,
+    "num_recipes": 7
   }
 ]
